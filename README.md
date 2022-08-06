@@ -66,11 +66,11 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 
 # ML Approaches
 
-1. CNN (Sequential: conv2d)              test_accuracy: 0.40
-2. Resnet50                              test_accuracy: 0.60
-3. vgg16                                 test_accuracy: 0.75
-4. vgg19                                 test_accuracy: 0.88
+1. CNN (Sequential: conv2d),              test_accuracy: 0.40
+2. Resnet50,                              test_accuracy: 0.60
+3. vgg16,                                test_accuracy: 0.75
+4. vgg19,                                test_accuracy: 0.88
 
 
-
+# UI
 
