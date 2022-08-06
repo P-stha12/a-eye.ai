@@ -11,7 +11,7 @@ Early ocular illness identification is a cost-efficient and reliable technique t
 Ocular Disease Intelligent Recognition (ODIR) is a structured ophthalmic database of 5,000 patients with age, color fundus photographs from left and right eyes and diagnostic keywords from doctors.
 
 This dataset is meant to represent ‘‘real-life’’ set of patient information collected by Shanggong Medical Technology Co., Ltd. from different hospitals/medical centers in China. In these institutions, fundus images are captured by various cameras in the market, such as Canon, Zeiss and Kowa, resulting into varied image resolutions.
-Annotations were labeled by trained human readers with quality control management. Patients are classified into various labels, where we have used 5 as:
+Annotations were labeled by trained human readers with quality control management. Patients are classified into various labels, where we have used the following 5:
 
 1. Normal (N)
 2. Diabetes (D)
