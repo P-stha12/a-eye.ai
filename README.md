@@ -46,3 +46,11 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 ![image](https://user-images.githubusercontent.com/83496813/183237216-27385f25-50dd-4e16-bc32-ee6aacd243a4.png)
 
 # Other diseases/abnormalities (O)
+1. Amblyopia
+2. Strabismus
+3. Retinal Detachment and so on.
+
+Dataset Images Examples:
+![167_left](https://user-images.githubusercontent.com/83496813/183253074-f3bc4254-e254-401e-ad2e-9e0ba4ef2978.jpg) ![43_right](https://user images.githubusercontent.com/83496813/183253081-42286efa-fd1e-4801-8cd0-03da0aa5c943.jpg)  ![1232_left](https://user-images.githubusercontent.com/83496813/183253092-a0d08997-8dc3-4752-9e62-21ab31145cd6.jpg)
+
+
