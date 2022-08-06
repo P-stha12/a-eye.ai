@@ -50,7 +50,15 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 2. Strabismus
 3. Retinal Detachment and so on.
 
-Dataset Images Examples:
-![167_left](https://user-images.githubusercontent.com/83496813/183253074-f3bc4254-e254-401e-ad2e-9e0ba4ef2978.jpg) ![43_right](https://user images.githubusercontent.com/83496813/183253081-42286efa-fd1e-4801-8cd0-03da0aa5c943.jpg)  ![1232_left](https://user-images.githubusercontent.com/83496813/183253092-a0d08997-8dc3-4752-9e62-21ab31145cd6.jpg)
+# Dataset Images Examples:
+
+# Glaucome
+![image](https://user-images.githubusercontent.com/83496813/183253186-4b16ab49-1407-4deb-a3cc-20a25d7c4484.png)
+
+# Cataract 
+![image](https://user-images.githubusercontent.com/83496813/183253259-a71f2a29-2a08-4711-9360-ce0447c0e39f.png)
+
+# Diabetes
+![image](https://user-images.githubusercontent.com/83496813/183253379-f8d819a3-c962-49de-b179-1a5fd2be20e1.png)
 
 
