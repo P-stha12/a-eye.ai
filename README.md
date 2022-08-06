@@ -67,14 +67,10 @@ Diabetes                   |  Myopia
 
 # ML Approaches
 
-2. Resnet50,                              test_accuracy: 0.60
-3. vgg16,                                test_accuracy: 0.75
-4. vgg19,                                test_accuracy: 0.88
-
 
 Resnet50 ( 0.60)          |  vgg16 (0.75)
 :------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/83496813/183260868-3798e0e1-9f8b-4343-b002-0cf702273b37.png) |  ![image](https://user-images.githubusercontent.com/83496813/183260873-605ad20f-e271-41a4-81f2-d5794b51fe00.png)
+https://www.researchgate.net/publication/343233188/figure/fig3/AS:917890010193921@1595853440484/Outline-of-ResNet-50-architecture-a-A-3-channel-image-input-layer-The-LL-LH-and-HH.jpg |  ![image](https://user-images.githubusercontent.com/83496813/183260873-605ad20f-e271-41a4-81f2-d5794b51fe00.png)
 
 
 vgg19(0.88)                |  CNN(Sequential: 0.45)
