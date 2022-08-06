@@ -1,5 +1,5 @@
 # a-eye.ai
-An AI to take care of your eye ..
+An AI to take care of your eye.
 
 
 # Introduction
