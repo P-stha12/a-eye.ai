@@ -74,31 +74,12 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 
 # UI
 
-<div class="row">
-  <div class="column">
+<p float = "left>
     <img src="https://user-images.githubusercontent.com/83496813/183259821-ab296207-109e-458d-af80-b444b5364526.png" alt="1" style="width:50%">
-  </div>
-  <div class="column">
     <img src="https://user-images.githubusercontent.com/83496813/183259830-ee5efa1e-2180-4602-9a7d-2f16bbbca469.png" alt="2" style="width:50%">
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/83496813/183259832-62ea169e-8bd5-4e38-a12d-2b65f7c487fe.png" alt="1" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/83496813/183259842-85fc60b8-6bba-4289-8c79-5f69aa94ee3e.png" alt="2" style="width:50%">
-  </div>
-</div>
+</p>
+<p float = "left>
+  <img src="https://user-images.githubusercontent.com/83496813/183259832-62ea169e-8bd5-4e38-a12d-2b65f7c487fe.png" alt="1" style="width:50%">
+  <img src="https://user-images.githubusercontent.com/83496813/183259842-85fc60b8-6bba-4289-8c79-5f69aa94ee3e.png" alt="2" style="width:50%">
+</p>
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
