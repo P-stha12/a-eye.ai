@@ -70,7 +70,7 @@ Diabetes                   |  Myopia
 
 Resnet50 ( 0.60)          |  vgg16 (0.75)
 :------------------------:|:-------------------------:
-https://www.researchgate.net/publication/343233188/figure/fig3/AS:917890010193921@1595853440484/Outline-of-ResNet-50-architecture-a-A-3-channel-image-input-layer-The-LL-LH-and-HH.jpg |  ![image](https://user-images.githubusercontent.com/83496813/183260873-605ad20f-e271-41a4-81f2-d5794b51fe00.png)
+![image](https://user-images.githubusercontent.com/83496813/183260986-a1dfa17f-8030-4458-9fab-8833e3062663.png) |  ![image](https://user-images.githubusercontent.com/83496813/183260873-605ad20f-e271-41a4-81f2-d5794b51fe00.png)
 
 
 vgg19(0.88)                |  CNN(Sequential: 0.45)
