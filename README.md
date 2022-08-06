@@ -65,7 +65,7 @@ Diabetes                   |  Myopia
 
 
 
-# ML Approaches
+# ML Approaches (accuracy)
 
 
 Resnet50 ( 0.60)          |  vgg16 (0.75)
