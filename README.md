@@ -75,7 +75,7 @@ Resnet50 ( 0.60)          |  vgg16 (0.75)
 
 vgg19(0.88)                |  CNN(Sequential: 0.45)
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/83496813/183260913-003d4b08-e36d-4257-a782-96318197ed3a.png) |  ![image](https://user-images.githubusercontent.com/83496813/183260890-e3069359-f81c-49e1-af6a-79dfde75a10e.png)
+![image](https://user-images.githubusercontent.com/83496813/183260913-003d4b08-e36d-4257-a782-96318197ed3a.png) |  ![image](https://user-images.githubusercontent.com/83496813/183261248-a1726c89-fc93-4b78-853c-6daff8fd08fa.png)
 
 
 
