@@ -1,0 +1,51 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(http-equiv='X-UA-Compatible' content='IE=edge')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title Profile
+  link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+  link(rel='stylesheet' href='style.css')
+  script(src="script.js" type="module" defer)
+// navbar
+.navBar
+  img.logo(src='images/logo.png' alt='')
+  button.navBtn(type='button') 
+    a(href="../patient/check") Check Report
+.container
+  .box
+    .details
+      .label
+        b Name:
+        |  Doctor Name
+      .label
+        b Ph. Num:
+        |  9824982212
+      .label
+        b Email:
+        |  doctor@gmail.com
+    .buttons
+      button#addPatient(type='button') 
+          a(href="../patient/add" target="_blank") Add new Patient
+      button#logout(type='button') Log out
+  .patients
+    table.table
+      thead
+        tr
+          th Name
+          th Age
+          th gender
+          th Disease(left)
+          th Risk%(left)
+          th Disease(right)
+          th Risk%(right)
+      tbody
+        each val in data
+          tr
+            td= val.name 
+            td= val.age 
+            td= val.gender
+            td= val.disL
+            td= val.perL
+            td= val.disR
+            td= val.perR
