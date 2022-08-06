@@ -54,23 +54,40 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 
 # Dataset Images Examples:
 
-# Glaucoma
-![image](https://user-images.githubusercontent.com/83496813/183253186-4b16ab49-1407-4deb-a3cc-20a25d7c4484.png)
-
-# Cataract 
-![image](https://user-images.githubusercontent.com/83496813/183253259-a71f2a29-2a08-4711-9360-ce0447c0e39f.png)
-
-# Diabetes
-![image](https://user-images.githubusercontent.com/83496813/183253379-f8d819a3-c962-49de-b179-1a5fd2be20e1.png)
+Glaucoma                   |  Cataract
+:-------------------------:|:-------------------------:
+![43_right](https://user-images.githubusercontent.com/83496813/183260534-74799061-67fd-4e31-8ec5-abccd7ebc132.jpg) |  ![81_left](https://user-images.githubusercontent.com/83496813/183260539-fe388a3f-8418-45c8-a5b0-0a9e3af6ba7a.jpg)
 
 
-# ML Approaches
+Diabetes                   |  Myopia
+:-------------------------:|:-------------------------:
+![1994_right](https://user-images.githubusercontent.com/83496813/183260544-cb8b64f4-07fb-4e42-98cc-3684edab43b5.jpg)  |  ![39_left](https://user-images.githubusercontent.com/83496813/183260556-018a602d-b917-488f-8e5d-1f97f8617df6.jpg)
 
-1. CNN (Sequential: conv2d),              test_accuracy: 0.40
-2. Resnet50,                              test_accuracy: 0.60
-3. vgg16,                                test_accuracy: 0.75
-4. vgg19,                                test_accuracy: 0.88
+
+
+# ML Approaches (accuracy)
+
+
+Resnet50 ( 0.60)          |  vgg16 (0.75)
+:------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/83496813/183260986-a1dfa17f-8030-4458-9fab-8833e3062663.png) |  ![image](https://user-images.githubusercontent.com/83496813/183260873-605ad20f-e271-41a4-81f2-d5794b51fe00.png)
+
+
+vgg19(0.88)                |  CNN(Sequential: 0.45)
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/83496813/183260913-003d4b08-e36d-4257-a782-96318197ed3a.png) |  ![image](https://user-images.githubusercontent.com/83496813/183261394-d4575b16-9c85-469d-ae8a-bc938c9f0dcc.png)
 
 
 # UI
+
+1                          |  2
+:-------------------------:|:-------------------------:
+![297806256_5329305510509985_3748246590630107530_n](https://user-images.githubusercontent.com/83496813/183260304-9ec46b79-b217-4ef8-89b8-a7e180b34eb2.png) |  ![297798606_581235233442517_611944687425387908_n](https://user-images.githubusercontent.com/83496813/183260318-e8d42fa2-df0a-459d-aa62-acbb3b3a45d7.png)
+
+
+3                          |  4
+:-------------------------:|:-------------------------:
+![297493707_787784795694290_7814490296017445167_n](https://user-images.githubusercontent.com/83496813/183260330-e4183d6d-b1a3-4ba1-8b93-582f26c1119b.png)  |  ![296912725_588262166008766_8769017134642947979_n](https://user-images.githubusercontent.com/83496813/183260336-f9d2d442-8531-4fa8-9e08-fec8c53031a2.png)
+
+
 
