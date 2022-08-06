@@ -67,10 +67,20 @@ Diabetes                   |  Myopia
 
 # ML Approaches
 
-1. CNN (Sequential: conv2d),              test_accuracy: 0.40
 2. Resnet50,                              test_accuracy: 0.60
 3. vgg16,                                test_accuracy: 0.75
 4. vgg19,                                test_accuracy: 0.88
+
+
+Resnet50 ( 0.60)          |  vgg16 (0.75)
+:------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/83496813/183260868-3798e0e1-9f8b-4343-b002-0cf702273b37.png) |  ![image](https://user-images.githubusercontent.com/83496813/183260873-605ad20f-e271-41a4-81f2-d5794b51fe00.png)
+
+
+vgg19(0.88)                |  CNN(Sequential: 0.45)
+:-------------------------:|:-------------------------:
+![297806256_5329305510509985_3748246590630107530_n](https://user-images.githubusercontent.com/83496813/183260304-9ec46b79-b217-4ef8-89b8-a7e180b34eb2.png) |  ![image](https://user-images.githubusercontent.com/83496813/183260890-e3069359-f81c-49e1-af6a-79dfde75a10e.png)
+
 
 
 # UI
