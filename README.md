@@ -19,6 +19,8 @@ Annotations were labeled by trained human readers with quality control managemen
 4. Cataract (C)
 5. Other diseases/abnormalities (O)
 
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+
 # Normal (N)
 Healthy eye:
 ![image](https://user-images.githubusercontent.com/83496813/183237522-aa147eba-3bcb-4d36-baa6-bbdcdce9c885.png)
@@ -46,3 +48,29 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 ![image](https://user-images.githubusercontent.com/83496813/183237216-27385f25-50dd-4e16-bc32-ee6aacd243a4.png)
 
 # Other diseases/abnormalities (O)
+1. Amblyopia
+2. Strabismus
+3. Retinal Detachment and so on.
+
+# Dataset Images Examples:
+
+# Glaucoma
+![image](https://user-images.githubusercontent.com/83496813/183253186-4b16ab49-1407-4deb-a3cc-20a25d7c4484.png)
+
+# Cataract 
+![image](https://user-images.githubusercontent.com/83496813/183253259-a71f2a29-2a08-4711-9360-ce0447c0e39f.png)
+
+# Diabetes
+![image](https://user-images.githubusercontent.com/83496813/183253379-f8d819a3-c962-49de-b179-1a5fd2be20e1.png)
+
+
+# ML Approaches
+
+1. CNN (Sequential: conv2d),              test_accuracy: 0.40
+2. Resnet50,                              test_accuracy: 0.60
+3. vgg16,                                test_accuracy: 0.75
+4. vgg19,                                test_accuracy: 0.88
+
+
+# UI
+
