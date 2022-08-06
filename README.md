@@ -19,6 +19,8 @@ Annotations were labeled by trained human readers with quality control managemen
 4. Cataract (C)
 5. Other diseases/abnormalities (O)
 
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+
 # Normal (N)
 Healthy eye:
 ![image](https://user-images.githubusercontent.com/83496813/183237522-aa147eba-3bcb-4d36-baa6-bbdcdce9c885.png)
@@ -60,5 +62,6 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 
 # Diabetes
 ![image](https://user-images.githubusercontent.com/83496813/183253379-f8d819a3-c962-49de-b179-1a5fd2be20e1.png)
+
 
 
