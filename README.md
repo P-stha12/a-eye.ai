@@ -52,7 +52,7 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 
 # Dataset Images Examples:
 
-# Glaucome
+# Glaucoma
 ![image](https://user-images.githubusercontent.com/83496813/183253186-4b16ab49-1407-4deb-a3cc-20a25d7c4484.png)
 
 # Cataract 
