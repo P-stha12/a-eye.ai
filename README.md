@@ -74,9 +74,10 @@ A cataract is a clouding of the eye's natural lens, called the lens. The latter 
 
 # UI
 
-            1              |            2
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://user-images.githubusercontent.com/83496813/183259821-ab296207-109e-458d-af80-b444b5364526.png))  |  ![]([https://...Ocean.png](https://user-images.githubusercontent.com/83496813/183259830-ee5efa1e-2180-4602-9a7d-2f16bbbca469.png))
+![297806256_5329305510509985_3748246590630107530_n](https://user-images.githubusercontent.com/83496813/183260304-9ec46b79-b217-4ef8-89b8-a7e180b34eb2.png)  |  ![297798606_581235233442517_611944687425387908_n](https://user-images.githubusercontent.com/83496813/183260318-e8d42fa2-df0a-459d-aa62-acbb3b3a45d7.png)
+
 
 
 <p float = "left">
