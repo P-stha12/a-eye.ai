@@ -57,6 +57,7 @@ let userRoute = require('./routes/user')
 //this is the part we check the authentication of the user from here
 app.use('/user',(req,res,next)=>{
     if(!req.session.contactNumber){
+        console.log("Do we get here")
         res.status(300).redirect('../login');
     }else{
         next()
